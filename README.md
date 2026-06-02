@@ -10,6 +10,7 @@ You will find below some of my different personal, professional and school-relat
 - **Languages:** Python, C++, R, Julia, MATLAB, SQL, LaTeX
 - **Data Science & ML:** PyTorch, Scikit-Learn, Pandas, NumPy, Transformers
 
+## Projects
 
 ### Professional
 - [Discontinuous Galerkin solver for the Helmholtz Equation](https://github.com/yann-mckeever/Helmholtz_dg)
