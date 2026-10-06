@@ -19,8 +19,6 @@ You will find below some of my different personal, professional and school-relat
 ### Personal 
 - [Deep Learning Architecture for Market Prediction using a LOB](https://github.com/yann-mckeever/Deep-Limit-Order-Book-LOB-Market-Making-Microstructure-Transformer)
   *Building a Transformer and CNN-based deep learning model for Limit Order Book (LOB) prediction and market-making strategies.*
-- [Market Prediction using Scikit-learn](https://github.com/yann-mckeever/Quant_ML_project)
-  *Applying classical machine learning algorithms to financial time-series prediction.*
 - [Market Alert Database for Anomaly Detection](https://github.com/yann-mckeever/market-alert-pipeline)
   *An automated data engineering pipeline designed to ingest market data and detect anomalies in real-time.*
 
